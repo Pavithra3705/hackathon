@@ -524,14 +524,13 @@ body{
 .user-description {
     font-size: 14px;
     color: #666;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 /* Rectangle Boxes */
 .rectangle-boxes_info {
     display: flex;
     gap: 10px;
-    margin-bottom: 10px;
 }
 
 .rectangle-boxes a{
@@ -673,7 +672,7 @@ body{
     flex: 1;
     padding: 10px;
     border: 1px solid #28a745;
-    border-radius: 0 20px 20px 0; /* Rounded corners on the right */
+    border-radius: 20px; /* Rounded corners on the right */
     background-color: #28a745;
     color: white;
     font-size: 16px;
