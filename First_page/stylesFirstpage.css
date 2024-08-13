@@ -287,6 +287,11 @@ body{
     text-decoration: none;
 }
 
+.a_decor1{
+    text-decoration: none;
+    color: white
+}
+
 .box_small_achievements{
     display: flex;
     align-items: center;

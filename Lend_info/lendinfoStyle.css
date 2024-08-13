@@ -186,7 +186,14 @@ body{
     transition-duration: 0.5s;
 }
 
+.a_decor{
+    text-decoration: none;
+}
 
+.a_decor1{
+    text-decoration: none;
+    color: white
+}
 
 
 
@@ -196,7 +203,7 @@ body{
 /* lend options ...........................................................................................*/
 .main-container {
     width: 40%;
-    margin: 3% 20%;
+    margin: 3% 17%;
     padding: 20px;
 }
 
@@ -211,7 +218,7 @@ body{
     height: 80px;
     border-radius: 50%;
     background-color: #ddd;
-    background-image: url('https://st3.depositphotos.com/3591429/13642/i/1600/depositphotos_136424690-stock-photo-cheerful-indian-man-face.jpg'); /* Replace with actual image path */
+    background-image: url('https://vajiram-prod.s3.ap-south-1.amazonaws.com/Farmers_Distress_Index_aee6523300.jpg'); /* Replace with actual image path */
     background-size: cover;
     background-position: top;
     margin-right: 20px;
@@ -447,7 +454,7 @@ body{
 /* sticky box ...................................................................................................................*/
 .right-container {
     position: fixed;
-    right: 10%;
+    right: 15%;
     top: 20%;
     padding: 10px;
     width: 28%;

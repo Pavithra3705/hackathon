@@ -85,6 +85,10 @@ body{
     font-weight: bold;
 }
 
+.a_decor1{
+    text-decoration: none;
+}
+
 /* Search Box */
 .search-container {
     max-width: 400px;
