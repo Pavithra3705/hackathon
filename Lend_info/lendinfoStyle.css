@@ -218,7 +218,7 @@ body{
     height: 80px;
     border-radius: 50%;
     background-color: #ddd;
-    background-image: url('https://vajiram-prod.s3.ap-south-1.amazonaws.com/Farmers_Distress_Index_aee6523300.jpg'); /* Replace with actual image path */
+    background-image: url('https://th.bing.com/th/id/OIP.-4v2pkw5mbZv4OLEM1rZMwHaE7?rs=1&pid=ImgDetMain'); /* Replace with actual image path */
     background-size: cover;
     background-position: top;
     margin-right: 20px;
@@ -286,6 +286,10 @@ body{
     border-radius: 20px;
     background-color: #f3f3f3;
     margin-left: 10px;
+}
+
+.top-box span{
+    color: #28a745;
 }
 
 .location-box p{
